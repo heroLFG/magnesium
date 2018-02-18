@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://magnesium.herolfg.com/categories/</loc>
+    <loc>https://herolfg.github.io/magnesium/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://magnesium.herolfg.com/</loc>
+    <loc>https://herolfg.github.io/magnesium/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://magnesium.herolfg.com/tags/</loc>
+    <loc>https://herolfg.github.io/magnesium/tags/</loc>
     <priority>0</priority>
   </url>
   
